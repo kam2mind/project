@@ -166,7 +166,7 @@
 
 ### Доступные файлы проекта:  
 1) "Сборный проект 2.ipynb "   
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/9_Project_2021-03_%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8%20%D0%B8%20AB-tests.ipynb#shag3)  
+[Посмотреть проект через - nbviewer.jupyter.org]()  
 
 ### Библиотеки: pandas / numpy / plotly / matplotlib / seaborn / datetime / math / re / scipy   
   
