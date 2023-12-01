@@ -166,7 +166,7 @@
 
 ### Доступные файлы проекта:  
 1) "Сборный проект 2.ipynb "   
-[Посмотреть проект через - nbviewer.jupyter.org]()  
+[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.org/github/kam2mind/yandex_practicum/blob/main/6.%20Сборный%20проект%202/Анализ%20пользовательского%20поведения%20в%20мобильном%20приложении.ipynb)  
 
 ### Библиотеки: pandas / numpy / plotly / matplotlib / seaborn / datetime / math / re / scipy   
   
