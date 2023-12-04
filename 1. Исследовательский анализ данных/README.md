@@ -7,7 +7,7 @@
 
 ### Доступные файлы проекта:  
 1) "Исследовательский анализ данных.ipynb "  
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.org/github/kam2mind/project/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B8%CC%86%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)  
+[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.org/github/kam2mind/yandex_practicum/blob/main/1.%20Исследовательский%20анализ%20данных/Исследование%20объявлений%20о%20продаже%20квартир.ipynb)  
 
 
 ## Навыки и инструменты
